@@ -1,0 +1,7 @@
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\obj\Debug\indice.csproj.AssemblyReference.cache
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\obj\Debug\indice.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\bin\Debug\indice.exe.config
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\bin\Debug\indice.exe
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\bin\Debug\indice.pdb
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\obj\Debug\indice.exe
+C:\Users\Rodrigo\Music\IMC_C#\IMC\indice\obj\Debug\indice.pdb
